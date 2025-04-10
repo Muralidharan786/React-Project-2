@@ -2,8 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import Apperr from './Apperr';
-import BMICalculator from './Bmicalculator';
 import MortgageCalculator from './MortgageCalculator';
 
 
